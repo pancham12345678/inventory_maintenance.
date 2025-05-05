@@ -16,7 +16,7 @@
 #define IR_PIN     34
 #define SLOT_IR    15
 
-// ========For store the slot information ======
+// ========to store the slot information ======
 #define Queue_Size 10
 int queue[Queue_Size];
 int head=0;
